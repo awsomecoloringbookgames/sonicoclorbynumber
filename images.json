@@ -4,74 +4,350 @@
     "number": [
         {
             "bgImageName": "Sonic_Color_1",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s1.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s2.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s2.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_3",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s3.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s4.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s4.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_5",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s5.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s6.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s6.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_7",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s7.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s8.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s8.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_9",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s9.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s10.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s10.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_11",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s11.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s12.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s12.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_13",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s13.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s14.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s14.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_15",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s15.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s16.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s16.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_17",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s17.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s18.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s18.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_19",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s19.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s20.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s20.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_21",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s21.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s22.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s22.png",
             "category": "SONIC"
         },
         {
             "bgImageName": "Sonic_Color_23",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s23.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspoom/refs/heads/main/s24.png",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s24.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s26.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s27.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s28.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s30.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s32.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s34.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s35.png",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s36.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s38.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s40.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s42.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s44.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s46.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s47.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s48.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s49.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s50.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s51.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s52.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s53.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s54.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s55.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s56.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s57.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s58.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s59.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s60.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s61.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s62.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s63.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s64.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s65.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s66.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s67.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s68.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s69.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s70.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s71.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s72.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s73.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s74.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s75.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s76.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s77.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s78.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s79.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s80.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s81.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s82.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s83.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s84.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s85.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s86.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s87.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s88.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s89.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s90.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s91.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s92.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_93",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s93.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s94.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_95",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s95.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s96.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_97",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s97.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s98.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_99",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s99.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s100.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_101",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s101.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s102.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_103",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s103.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s104.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_105",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s105.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s106.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_107",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s107.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s108.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_109",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s109.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s110.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_111",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s111.png",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s112.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_113",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s113.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s114.jpg",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_115",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s115.png",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/s116.jpg",
             "category": "SONIC"
         },
         {
